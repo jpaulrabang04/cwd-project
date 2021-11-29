@@ -1,0 +1,75 @@
+
+.hero{
+    background: url(axie1.jpg);
+    min-height: 100vh;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	overflow: hidden;
+}
+
+.section-about{
+	overflow: hidden;
+}
+
+.section-nft{
+	overflow: hidden;
+}
+
+.Economy{
+	overflow: hidden;
+}
+
+.block{
+	overflow: hidden;
+}
+
+#ax1{
+    font-size: 21px;
+}
+
+p{
+	margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+	text-align: justify;
+}
+#ip{
+	position: absolute;
+	right: 100px;
+}
+#t1{
+	padding-top: -100px;
+}
+#lo2{
+	padding-left: 1000px;
+}
+
+#ax2{
+	margin-top: 100px;
+	width: 100%;
+	margin-left: 100px;
+	
+	
+}
+
+#fo1{
+	text-align: center;
+	margin-left: 300px;
+}
+#ax3{
+	margin-top: 150px;
+	border-radius: 25%;
+	width: 100%;
+	margin-left: 100px;
+}
+.page-footer{
+	height: 200px;
+
+}
+.block{
+	background: cornflowerblue;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+	
